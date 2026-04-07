@@ -1,4 +1,4 @@
-# Ecommerce-testing-project
+# E-commerce-testing-project
 # 🛒 E-Commerce Web Application — Testing Project
 
 **Author:** Maryam Akram  
