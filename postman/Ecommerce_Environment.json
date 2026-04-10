@@ -1,0 +1,35 @@
+{
+    "id": "maryam-ecommerce-env",
+    "name": "E-Commerce Test Environment",
+    "values": [
+        {
+            "key": "baseUrl",
+            "value": "https://example-ecommerce.com",
+            "type": "default",
+            "enabled": true,
+            "description": "Base URL of the application"
+        },
+        {
+            "key": "authToken",
+            "value": "",
+            "type": "secret",
+            "enabled": true,
+            "description": "JWT token - auto filled after login test"
+        },
+        {
+            "key": "testEmail",
+            "value": "maryam.test@example.com",
+            "type": "default",
+            "enabled": true,
+            "description": "Test user email"
+        },
+        {
+            "key": "testPassword",
+            "value": "SecurePass123!",
+            "type": "secret",
+            "enabled": true,
+            "description": "Test user password"
+        }
+    ],
+    "_postman_variable_scope": "environment"
+}
